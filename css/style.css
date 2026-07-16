@@ -356,7 +356,7 @@
     position: absolute;
     inset: 0;
     z-index: 0;
-    background-image: url('https://images.unsplash.com/photo-1589829545856-d10d557cf95f?fm=jpg&q=85&w=2400&auto=format&fit=crop');
+    background-image: url('../img/background-inicio.jpg');
     background-size: cover;
     background-position: 65% center;
     background-repeat: no-repeat;
